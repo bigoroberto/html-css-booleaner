@@ -1,0 +1,112 @@
+header{
+  background-image: url(img/pattern.png);
+  background-color: #4ea0ff;
+  height: 15%;
+}
+
+.logo{
+  width: 15%;
+  height: 5%;
+  margin-left: 10%;
+}
+
+main{
+  width: 80%;
+  margin: auto;
+}
+
+section{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+h1{
+  font-size: 50px;
+  margin-top: 1%;
+}
+
+.paragrafo-titolo1{
+  font-size: 18px;
+  color: grey;
+}
+
+.paragrafo-titolo2{
+  font-size: 14px;
+  margin-top: 0%;
+  color: grey;
+}
+
+.scritta-colorata{
+  color: blue;
+}
+
+.paragrafo-foto{
+  margin-top: 1%;
+  font-size: 14px;
+}
+
+.margine-lista{
+  margin: 0%;
+}
+
+.evidenziatore{
+  background-color: yellow;
+}
+
+#sezione-finale h2{
+  color: grey;
+  font-size: 18px;;
+}
+
+.grafico{
+  margin-top: 10px;;
+}
+
+thead{
+  background-color: #4ea0ff;
+  color: #ffffff;
+  border-color: #ffffff;
+  text-align: left;
+}
+
+tbody{
+  background-color: #46e7f3;
+}
+
+.body-white{
+  background-color: white;
+}
+
+th{
+  width: 25%;
+}
+
+td{
+  width: 25%;
+}
+
+.diverso{
+  width: 50%;
+}
+
+.monitor{
+  background-image: url(img/monitor.jpg);
+  background-size: cover;
+  width: 350px;
+  height: 200px;
+  margin bottom: 5%;
+}
+
+.grafico{
+  background-image: url(img/graph.jpg);
+  background-size: cover;
+  width: 350px;
+  height: 200px;
+  margin bottom: 5%;
+}
+
+#sezione-finale h3{
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
